@@ -1,14 +1,13 @@
 # DoodleDetect
 Detects what you draw using a convolutional neural network trained with selected QuickDraw datasets. 
 
-This repo comes with pretrained models on the Google QuickDraw Dataset
-I used these datasets:
+This repo comes with pretrained models on the Google QuickDraw Dataset. I used these ones:
  - Bee
  - Book
  - Skull
 
  ## How to make your own model
- You can delete the pretrained models and placeholder datasets, and train your own with any QuickDraw Numpy datasets you choose from: https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/numpy_bitmap
+You can delete the pretrained models and placeholder datasets, and train your own with any QuickDraw Numpy datasets you choose from: https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/numpy_bitmap
 
 1. Make sure to save the downloaded datasets as full_numpy_bitmap_{NAME}.npy in the QuickDrawDataset Folder
 2. Run model.py, which will create your model, saved as model.h5 in the same directory
@@ -26,4 +25,5 @@ I used these datasets:
 The purpose of the google colab notebook to convert the model is due to documented version and OS compatibility problems with tfjs converter
 
 ## License
-This data made available by Google, Inc. under the Creative Commons Attribution 4.0 International license.
+This data made available by Google, Inc. under the [Creative Commons Attribution 4.0 International license.](https://creativecommons.org/licenses/by/4.0/)
+
