@@ -15,6 +15,9 @@ You can delete the pretrained models and placeholder datasets, and train your ow
 
 **NOTE:** The repo comes with BLANK datasets that are just placeholders required for draw.py and the website to work. Please note that you will not be able to train and make a model using these placeholder datasets.
 
+## Running in Python
+Simply run draw.py, assuming you have a trained model. Hold left click to draw, right click to clear the canvas, and middle mouse click to get a prediction.
+
 ## Running on the Website
 1. Go to tfjs_model_converter.ipynb to convert the model.h5 to a tfjs model compatible with JS
 2. Run each codeblock, and find the web_model output folder in files on the left taskbar
