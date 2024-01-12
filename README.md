@@ -14,7 +14,7 @@ I used these datasets:
 2. Run model.py, which will create your model, saved as model.h5 in the same directory
 3. You can then run draw.py to draw and guess directly in python
 
-**NOTE:** The repo comes with BLANK datasets that are just placeholders required for the website to work. Please note that you will not be able to train and make a model using these placeholder datasets.
+**NOTE:** The repo comes with BLANK datasets that are just placeholders required for draw.py and the website to work. Please note that you will not be able to train and make a model using these placeholder datasets.
 
 ## Running on the Website
 1. Go to tfjs_model_converter.ipynb to convert the model.h5 to a tfjs model compatible with JS
