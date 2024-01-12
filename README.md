@@ -24,3 +24,6 @@ I used these datasets:
 
 **NOTE:** You need to open index.html with a live server, or disable CORS for your browser in order to run correctly.
 The purpose of the google colab notebook to convert the model is due to documented version and OS compatibility problems with tfjs converter
+
+## License
+This data made available by Google, Inc. under the Creative Commons Attribution 4.0 International license.
