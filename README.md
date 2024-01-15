@@ -28,5 +28,5 @@ Simply run draw.py, assuming you have a trained model. Hold left click to draw, 
 The purpose of the google colab notebook to convert the model is due to documented version and OS compatibility problems with tfjs converter
 
 ## License
-This data made available by Google, Inc. under the [Creative Commons Attribution 4.0 International license.](https://creativecommons.org/licenses/by/4.0/)
+This data made available by Google, Inc. under the [Creative Commons Attribution 4.0 International license.](https://creativecommons.org/licenses/by/4.0/) 
 
