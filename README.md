@@ -1,7 +1,7 @@
 # DoodleDetect
 Detects what you draw using a convolutional neural network trained with selected QuickDraw datasets. 
 
-![Demonstration Gif of website](https://giphy.com/gifs/jEX2PbdK10CCCcnwbV)
+![Demonstration Gif of website](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWkyeno1emlteHNqZzd6M3Z4amE1YTVlemMzeTIxeXB3cXRiMHRyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jEX2PbdK10CCCcnwbV/giphy.gif)
 
 This repo comes with pretrained models on the Google QuickDraw Dataset. I used these ones:
  - Bee
